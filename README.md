@@ -1,1 +1,2 @@
 # Java-Console-Calculator
+This is a simple Java console-based calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division. The user inputs two numbers and an operator, and the calculator displays the result. It uses the `Scanner` class for input and supports multiple calculations in one session. The program includes basic error handling like division by zero. Ideal for beginners learning Java and console I/O.
